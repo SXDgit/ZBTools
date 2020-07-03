@@ -1,0 +1,6 @@
+framework module Pods_ZBTools_Tests {
+  umbrella header "Pods-ZBTools_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

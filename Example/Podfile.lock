@@ -1,0 +1,16 @@
+PODS:
+  - ZBTools (0.1.0)
+
+DEPENDENCIES:
+  - ZBTools (from `../`)
+
+EXTERNAL SOURCES:
+  ZBTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZBTools: 6a1369189ede5bd9cad9d6c9f9a515ec1ba5eb3b
+
+PODFILE CHECKSUM: fca18eecc4575585f10d5e8355d405c35ad7fdd5
+
+COCOAPODS: 1.9.1
